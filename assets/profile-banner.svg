@@ -1,0 +1,89 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AMROUTE gothic banner</title>
+  <desc id="desc">A gothic GitHub profile banner with pointed arches, a rose window, candle light, and AMROUTE lettering.</desc>
+
+  <rect width="1200" height="360" rx="28" fill="#09070A"/>
+  <rect x="16" y="16" width="1168" height="328" rx="22" fill="url(#night)" stroke="#4B1D2A" stroke-width="2"/>
+
+  <g opacity="0.35">
+    <path d="M50 309H1150" stroke="#7A2E36" stroke-width="1"/>
+    <path d="M88 56H1112" stroke="#7A2E36" stroke-width="1"/>
+    <path d="M98 78H1102" stroke="#C9A35A" stroke-width="1" stroke-dasharray="5 13"/>
+    <path d="M98 287H1102" stroke="#C9A35A" stroke-width="1" stroke-dasharray="5 13"/>
+  </g>
+
+  <g opacity="0.42">
+    <path d="M160 304V178C160 126 196 88 238 58C280 88 316 126 316 178V304H160Z" fill="#120D12" stroke="#653045" stroke-width="2"/>
+    <path d="M884 304V178C884 126 920 88 962 58C1004 88 1040 126 1040 178V304H884Z" fill="#120D12" stroke="#653045" stroke-width="2"/>
+    <path d="M226 304V198C226 158 246 128 272 105C298 128 318 158 318 198V304H226Z" fill="#0B090D" stroke="#342033" stroke-width="1"/>
+    <path d="M946 304V198C946 158 966 128 992 105C1018 128 1038 158 1038 198V304H946Z" fill="#0B090D" stroke="#342033" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(600 174)">
+    <circle r="83" fill="#120B12" stroke="#C9A35A" stroke-width="3"/>
+    <circle r="61" fill="#1A0F17" stroke="#6E2430" stroke-width="2"/>
+    <circle r="13" fill="#C9A35A"/>
+    <g stroke="#C9A35A" stroke-width="3" stroke-linecap="round">
+      <path d="M0 -72V72"/>
+      <path d="M-72 0H72"/>
+      <path d="M-51 -51L51 51"/>
+      <path d="M51 -51L-51 51"/>
+    </g>
+    <g fill="#2C6670" opacity="0.9">
+      <path d="M-9 -58C-34 -52 -52 -34 -58 -9C-33 -17 -17 -33 -9 -58Z"/>
+      <path d="M9 -58C34 -52 52 -34 58 -9C33 -17 17 -33 9 -58Z"/>
+      <path d="M-58 9C-52 34 -34 52 -9 58C-17 33 -33 17 -58 9Z"/>
+      <path d="M58 9C52 34 34 52 9 58C17 33 33 17 58 9Z"/>
+    </g>
+    <circle r="82" fill="none" stroke="#2E151D" stroke-width="12" stroke-dasharray="7 10"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M390 314V183C390 127 429 86 480 48C531 86 570 127 570 183V314H390Z" fill="#0E0A0F" stroke="#8F3C4A" stroke-width="2"/>
+    <path d="M630 314V183C630 127 669 86 720 48C771 86 810 127 810 183V314H630Z" fill="#0E0A0F" stroke="#8F3C4A" stroke-width="2"/>
+    <path d="M442 314V205C442 164 457 134 480 111C503 134 518 164 518 205V314H442Z" fill="#080608" stroke="#C9A35A" stroke-width="1.5"/>
+    <path d="M682 314V205C682 164 697 134 720 111C743 134 758 164 758 205V314H682Z" fill="#080608" stroke="#C9A35A" stroke-width="1.5"/>
+  </g>
+
+  <g filter="url(#textShadow)">
+    <text x="600" y="147" text-anchor="middle" fill="#EDE3D0" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" letter-spacing="7">AMROUTE</text>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M386 229H814" stroke="#C9A35A" stroke-width="1.5"/>
+    <path d="M422 247H778" stroke="#7A2E36" stroke-width="1.5" stroke-dasharray="10 12"/>
+    <circle cx="386" cy="229" r="4" fill="#C9A35A"/>
+    <circle cx="814" cy="229" r="4" fill="#C9A35A"/>
+  </g>
+
+  <g>
+    <path d="M84 313C102 287 102 262 84 237C66 262 66 287 84 313Z" fill="#B74B37"/>
+    <rect x="79" y="308" width="10" height="24" rx="3" fill="#7A2E36"/>
+    <path d="M1116 313C1134 287 1134 262 1116 237C1098 262 1098 287 1116 313Z" fill="#B74B37"/>
+    <rect x="1111" y="308" width="10" height="24" rx="3" fill="#7A2E36"/>
+    <circle cx="84" cy="271" r="25" fill="#C9A35A" opacity="0.12"/>
+    <circle cx="1116" cy="271" r="25" fill="#C9A35A" opacity="0.12"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M132 320C210 289 289 289 367 320" stroke="#1E1118" stroke-width="16" stroke-linecap="round"/>
+    <path d="M833 320C911 289 990 289 1068 320" stroke="#1E1118" stroke-width="16" stroke-linecap="round"/>
+    <path d="M132 320C210 289 289 289 367 320" stroke="#6E2430" stroke-width="2" stroke-linecap="round" stroke-dasharray="9 14"/>
+    <path d="M833 320C911 289 990 289 1068 320" stroke="#6E2430" stroke-width="2" stroke-linecap="round" stroke-dasharray="9 14"/>
+  </g>
+
+  <defs>
+    <linearGradient id="night" x1="600" y1="16" x2="600" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#150A12"/>
+      <stop offset="0.48" stop-color="#0A080C"/>
+      <stop offset="1" stop-color="#150F16"/>
+    </linearGradient>
+    <filter id="glow" x="360" y="18" width="480" height="326" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#5A1E2C" flood-opacity="0.75"/>
+    </filter>
+    <filter id="textShadow" x="310" y="70" width="580" height="140" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#7A2E36" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+</svg>
