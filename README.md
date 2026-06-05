@@ -60,10 +60,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMROUTE&bg_color=101820&color=c9d1d9&line=1f6f4a&point=f2aa4c&area=true&area_color=1f6f4a&hide_border=true" alt="GitHub activity heatmap" />
 </p>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AMROUTE&show_icons=true&theme=transparent&hide_border=true&title_color=f2aa4c&text_color=c9d1d9&icon_color=1f6f4a&bg_color=101820" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMROUTE&layout=compact&theme=transparent&hide_border=true&title_color=f2aa4c&text_color=c9d1d9&bg_color=101820" alt="Top languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Profile Signal</strong><br />
+      Frontend development, machine intelligence, and project experiments around usable interfaces.
+    </td>
+    <td width="50%">
+      <strong>Language Route</strong><br />
+      HTML/CSS/JavaScript, C++, Python, Swift, Vue 3, Oracle, and PostgreSQL.
+    </td>
+  </tr>
+</table>
 
 ### Game Log / 资深游戏爱好者
 
