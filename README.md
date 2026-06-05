@@ -24,7 +24,7 @@
 ### Links / 传送门
 
 <p>
-  <a href="amroute.black">
+  <a href="https://amroute.black">
     <img src="https://img.shields.io/badge/Personal_Homepage-101820?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Homepage" />
   </a>
   <a href="https://github.com/AMROUTE">
@@ -61,8 +61,8 @@
 </p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WiIIiamWei&show_icons=true&theme=transparent&hide_border=true&title_color=f2aa4c&text_color=c9d1d9&icon_color=1f6f4a&bg_color=101820" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiIIiamWei&layout=compact&theme=transparent&hide_border=true&title_color=f2aa4c&text_color=c9d1d9&bg_color=101820" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AMROUTE&show_icons=true&theme=transparent&hide_border=true&title_color=f2aa4c&text_color=c9d1d9&icon_color=1f6f4a&bg_color=101820" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMROUTE&layout=compact&theme=transparent&hide_border=true&title_color=f2aa4c&text_color=c9d1d9&bg_color=101820" alt="Top languages" />
 </p>
 
 ### Game Log / 资深游戏爱好者
