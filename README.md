@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://williamwei.top">
-    <img src="https://img.shields.io/badge/Homepage-williamwei.top-1f6f4a?style=flat-square&labelColor=101820" alt="Homepage" />
+  <a href="https://amroute.black">
+    <img src="https://img.shields.io/badge/Homepage-amroute.black-1f6f4a?style=flat-square&labelColor=101820" alt="Homepage" />
   </a>
-  <a href="https://github.com/WiIIiamWei">
-    <img src="https://img.shields.io/badge/GitHub-WiIIiamWei-f2aa4c?style=flat-square&labelColor=101820&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/AMROUTE">
+    <img src="https://img.shields.io/badge/GitHub-AMROUTE-f2aa4c?style=flat-square&labelColor=101820&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=WiIIiamWei&label=visits&color=1f6f4a&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AMROUTE&label=visits&color=1f6f4a&style=flat-square" alt="Profile views" />
 </p>
 
 ---
