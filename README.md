@@ -57,7 +57,15 @@
 ### Heatmap / 代码热力图
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMROUTE&bg_color=101820&color=c9d1d9&line=1f6f4a&point=f2aa4c&area=true&area_color=1f6f4a&hide_border=true" alt="GitHub activity heatmap" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMROUTE/AMROUTE/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMROUTE/AMROUTE/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AMROUTE/AMROUTE/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  </picture>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMROUTE&bg_color=101820&color=c9d1d9&line=1f6f4a&point=f2aa4c&area=true&area_color=1f6f4a&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 <table>
